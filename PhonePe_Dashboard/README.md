@@ -21,8 +21,8 @@ Data Modeling: Relationship mapping and schema design across multiple data table
 Data Transformation: Data cleaning and preprocessing to ensure analytical accuracy.
 
 📂 Repository Contents
-phonepe_power_bi_project_v1.pbix — Interactive Power BI dashboard file.
+phonepe_power_bi_project_v1.pbix — Interactive Power BI dashb
 
-1000098269.jpg — Preview image of the final dashboard.
+Phone_pay_dashboard_pic.jpg — Preview image of the final dashboard.
 
 Developed as part of my continuous learning journey in Data Analytics and Business Intelligence.
